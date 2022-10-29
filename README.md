@@ -1,1 +1,1 @@
-# platzi-cursos
+# Curso manipulación del DOM con Javascript
